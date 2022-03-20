@@ -1,0 +1,99 @@
+https://www.linkedin.com/jobs/view/2629911438/?alternateChannel=search&refId=r36AtXTotzDEqU0Pd9c9EQ%3D%3D&trackingId=qnr9Mlcz1xwheNu6bAoV5Q%3D%3D
+
+
+  Advanced Cyber Security Engineer
+
+Honeywell <https://www.linkedin.com/company/honeywell/life/> Monza,
+Lombardy, Italy 1 month ago 1 applicant
+
+Full-time · Entry level
+
+
+
+*ADVANCED CYBER SECURITY ENGINEER
+
+*This position is responsible for providing on-site cyber security
+services associated with industrial Process Control Networks. Services
+provided include on-site consulting, troubleshooting, network designs,
+implementation, and other related tasks as identified per the customers
+contract.
+
+*Role will be based around Brindisi area.
+
+**_Principal Responsibilities
+
+# _*Keep technically current with the HPS cyber & networking
+product/systems portfolio, while maintaining expert knowledge on
+specific designated cyber & network disciplines
+# Maintain existing certifications
+# Knowledge of current industry security standards such as ISA/IEC-62443,
+ISO 27000, etc.
+# Develop sound and trusted relationships with internal and external
+customers by providing accurate and efficient technical/engineering support
+# Respond to customer inquiries, questions and issues by diagnosing
+problems and providing the most appropriate technical solution in an
+accurate and timely manner
+# Maintain industrial safety awareness through the completion of pertinent
+safety certifications
+
+*_Geographic Scope & Travel Requirements
+
+# _*Resident Engineer, 20 – 30% Travelling
+
+*_Education Required
+
+_*Bachelor’s degree in a computer related field such as Computer
+Science, Computer information systems, electronics or in lieu of degree
+
+*_Work Experience Required
+
+_*A minimum of 3 years’ experience in industrial automation network
+systems engineering
+3+ years working with IT Security
+3+ years Industrial Networking
+3+ years’ experience in Network/Security Projects
+
+#
+
+
+
+*_Technical Skills & Specific Knowledge Required
+
+_*CCNA or similar network/security certification, experience designing
+and optimizing complex LAN environments
+Linux/Windows Security Basics
+Cyber Security Risk Analysis
+Process Control system design/implementation
+Excellent troubleshooting skills to resolve complex network and or
+application or system integration issues
+Experience with virtualization preferably VMWare
+Experience performing network/security services at customer sites
+Experience in LAN/WAN architectures & related diagnostic tools
+LAN/WAN and protocols including Ethernet, TCP/IP, VLAN, WLAN, Frame
+Relay, Firewall, DMZ, VPN
+TCP/IP protocols – SMTP, SNMP, FTP, HTTP, SSH, SSL, NTP
+Experience Network Security – Firewall, ACL, Modbus
+Specific experience in Cisco/HP/HUAWEI Routers, Switches, or Firewalls
+Microsoft – Active Directory, DNS, WSUS, Terminal Server
+Experience with anti-virus systems, backup & restore solutions, system
+management
+
+*_Advantage Having The Following Technical Skills & Specific Knowledge
+
+_*Fault Tolerant Ethernet (Honeywell product)
+Microsoft Certified Systems Engineer or similar certification
+Wireless networking principles and experiences
+Experience Network Security – IDS, IPS & SIEM
+
+*Behavioral**Competencies Required
+*Result oriented
+Confident – ability to work with minimal supervision
+Open minded - Integrative thinker
+Influences without authority
+Effective communicator
+Customer service orientated.
+
+*_Language Requirements
+
+_*Must have written and oral communication skills at all levels of the
+organization.

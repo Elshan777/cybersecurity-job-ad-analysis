@@ -1,0 +1,26 @@
+Application Security Engineer or Senior Application Security Engineer
+
+
+
+Responsibilities
+Own vulnerability management and mitigation approaches
+Conduct threat modeling tied to security services
+Conduct application security reviews
+Implement secure architecture design
+Provide security training and outreach to internal development teams
+Develop security guidance documentation
+Assist with recruiting activities and administrative work
+Define, implement, and monitor security measures to protect GitLab.com and company assets
+
+
+Requirements
+Familiarity with common security libraries, security controls, and common security flaws that apply to Ruby on Rails applications
+Some development experience (Ruby and Ruby on Rails preferred; for GitLab debugging)
+Experience with OWASP, static/dynamic analysis, and common exploit tools and methods
+Experience with Google Cloud and GCP-related services
+Experience with Go and Automation are pluses
+Comfortable with using Git
+Excellent written and verbal communication skills
+Demonstrable teamwork skills and resourcefulness
+Passion for open source
+Linux experience (e.g. Ubuntu)

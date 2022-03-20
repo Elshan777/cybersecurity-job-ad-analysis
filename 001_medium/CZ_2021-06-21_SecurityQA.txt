@@ -1,0 +1,80 @@
+﻿https://www.linkedin.com/jobs/view/2206905340/?refId=4ab813a4-6c93-4ac5-8834-ca1b17f0ffdf
+Security QA Engineer at Collibra
+
+
+      About the job
+
+We're Ushering a New Era of Data Participation. Interested?
+
+We’re shaping the way companies manage data by helping customers connect
+the right data, insights, and algorithms for all Data Citizens. When
+everyone across the organization is enabled with data, true
+transformation can take place. We are building a team of exceptional
+people to help us deliver on that promise. If you are interested in a
+career at the leading edge of technology, we look forward to hearing
+from you.
+
+*_How You'll Make An Impact At Collibra
+
+_*To support our current and future growth, we are looking for a
+Security QA Engineer who will be part of our QA Team in an environment
+focused on Quality and Automation Testing. You will share subject matter
+expertise on a variety of testing tools relevant to our business
+environment, develop and promote the testing knowledge of
+cross-functional agile teams, and provide guidance and play an advisory
+and auditing role enabling developers to test. You will also help to
+define and maintain quality monitoring, metrics and reports on test
+coverage, and promote a shift-left philosophy within Engineering.
+
+A day in the life of a Security QA Engineer at Collibra:
+
+*You’ll be responsible for a wide range of tasks, including:
+*
+
+  * Reviewing requirement specifications and user stories to provide
+    timely and meaningful feedback
+  * Designing, developing and executing automation scripts using open
+    source tools (Selenium Webdriver, Cypress, JMeter, Rest Assured)
+  * Designing and creating proper test data which can be reused
+  * Working on the continuous integration of your scripts (Jenkins)
+  * Ensuring quality on every level of the software life-cycle
+  * Identifying, documenting and tracking issues
+  * Following the team on the way towards continuous testing
+
+
+*_You Have
+_*
+
+  * 5+ years of experience, or 3+ years of experience with a Master's
+    degree in a related field
+  * Solid experience in Java or JavaScript
+  * Experience writing clear, concise and comprehensive test plans and
+    test cases
+  * Experience writing unit/integration/system tests
+  * Knowledge of authentication and authorization schemes, including
+    SAML and OAuth
+  * Knowledge of secure coding practices, specifically for Java, HTML,
+    and JavaScript
+  * Comfort working fully in English
+
+
+*_Preferred
+_*
+
+  * Familiarity with any of the following:
+      o industry security best practices (including OWASP)
+      o encryption solutions
+      o cloud security (NAT, firewalls, certificates)
+      o server O/S and networking protocols, java applications & network
+        security
+      o various AppSec-related threats and cyberattacks
+  * ISTQB certified
+  * Hands-on experience with automated testing tools (i.e. Selenium,
+    Cypress, Ansible)
+  * Strong knowledge of software QA methodologies, tools (JIRA) and
+    processes
+  * Strong experience with either Gradle, JUnit, Docker, and/or Kubernetes
+  * Experience working in an Agile / Scrum development process
+  * Knowledge of continuous delivery / continuous testing environment
+
+

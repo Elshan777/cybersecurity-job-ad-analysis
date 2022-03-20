@@ -1,0 +1,32 @@
+Penetration tester (White Hat Hacker)
+
+Job Description
+
+You have an opportunity to join an established and experienced security team in a fast-growing company with a worldwide presence. You will be responsible for web application, web service, mobile and network security testing, security architecture, communication with developers and project managers as well as company-wide security recommendations.
+
+Qualifications
+Solid technical skills in both information security architecture and penetration testing;
+Good understanding of network protocols;
+Scripting and programming experience;
+In-depth understanding of operating systems;
+Ability to assess testing tools and deploy the right ones;
+A solid understanding of ethical hacking;
+Ability to explain findings to both technical and non-technical professionals;
+Able to work independently but also as part of a team;
+Flexibility to change direction and manage conflicting demands;
+Comfortable working in a fast-paced environment.
+What Will Give You An Edge
+Technical certification (OSCP, OSCE, CEH, CISSP, CHFI, CLPT);
+Experience with reverse-engineering;
+Knowledge of Agile, SDLC, and Continuous Security / Continuous Delivery models.
+Responsibilities
+Plan and perform vulnerability assessments and penetration testing (application, network, systems and infrastructure);
+Research and develop testing tools, techniques, and process improvements;
+Perform static and dynamic code analysis;
+Conduct web application penetration testing in line with OWASP methodologies;
+Develop security threat models and test plans;
+Document testing methodologies and results;
+Analyse outcomes and make recommendations for security improvements;
+Work with application developers to validate, assess and identify root causes of vulnerabilities;
+Make suggestions for company-wide security improvements;
+Keep up to date with latest security testing and ethical hacking methods.

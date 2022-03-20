@@ -1,0 +1,73 @@
+﻿https://www.linkedin.com/jobs/view/2629186611/?refId=62c71088-0c0c-41fc-953e-2382816d324b 
+
+Cyber Security Architect at Vodafone
+
+
+
+**Key accountabilities and decision ownership
+**
+
+  * Research and assess new threats and security alerts, and recommends
+    remedial actions through the whole lifecycle of enterprise services
+  * Designs security models and baseline, reviews and approves security
+    configuration and architecture of firewall, VPN, router, IDS/IPS,
+    WAF, Operating Systems, Cloud environment, Middle-ware/database,
+    servers and services/application
+  * Plan and execute the security review, definition and evaluation of
+    project proposals and tender materials in relation to information
+    security requirements where there is information security relevance,
+    following Secure-by-design approach.
+  * Assesses the efficiency of existing processes and procedures and
+    identifies potential opportunities for process improvements
+  * Maintain the IT&NW security solutions assuring confidentiality and
+    consistency and availability for other departments to use outcomes
+    of these solutions
+  * Support security incident analysis and assist with incident response
+  * Work closely with different IT, business and project teams to ensure
+    security controls and procedures are understood and successfully
+    implemented and actively monitored
+  * Monitor the fulfilment of the cybersecurity requirements
+  * Participation in Cyber Risk Management process
+  * Identifies key controls around network security, logical access,
+    change management, system development and implementation, and
+    computer operations during walkthroughs of affiliate's IT environment
+  * Communicates or assists in communicating the results of audit and
+    consulting projects
+  * Investigate information security incident, alarms
+  * Provide support for developments by determining security and
+    compliance requirements and review fulfilment of these requirements.
+  * Maintain the Cybersecurity solutions assuring confidentiality and
+    consistency and availability for other departments to use outcomes
+    of these solutions
+
+**Key performance indicators
+**
+
+  * Focused on the timely delivery of results while able to judge and
+    make compromise when and where needed
+  * Achieving Cybersecurity Baseline controls scores assigned to him;
+    supporting control owners on IT/Network to succeed.
+  * Becoming Single Point of Contact for relevant security platforms
+  * Continuous cooperation with involved business and IT&Digital/Network
+    departments throughout the duration of the projects.
+  * Becoming an enabler for integration projects from exUPC to Vodafone
+    network.
+  * Engage on innovation initiatives.
+
+**Core competencies, knowledge and experience
+**
+
+  * Highly motivated, autonomous individual with strong information
+    security background and focus on business needs
+  * Ability to act as a trusted advisor and delivery agent to the
+    business functions
+  * Ability to handle multitasking and be aware of priorities and
+    reprioritize when needed, managing stakeholders expectations.
+  * Strong written and verbal English knowledge
+  * Become a business and IT/Network partner, fostering cooperation and
+    strengthening relationships with key peers.
+  * Be a teamplayer with broader Cybersecurity community, linking point
+    with group Cybersecurity function.
+  * Being a role model for Vodafone spirit principles.
+
+

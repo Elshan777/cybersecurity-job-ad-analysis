@@ -1,0 +1,44 @@
+Cybersecurity Engineer
+
+Company: Control4 
+Locatin: Belgrade, Serbia
+Seniority Level: Entry level
+Industry: Electrical & Electronic, Manufacturing, Computer Software, Consumer Goods
+Employment Type: Full-time
+Job Functions: Other
+
+
+About the job
+SnapAV + Control4 is a leading manufacturer and distributer of audio, video, surveillance, power, and wiring equipment for residential and commercial A/V integrators. We believe that life’s better when everything works together. And the same can be said about the collaborative work we do. Join our award-winning team in our continuous quest to deliver the most brilliant, personalized smart home experiences to people around the world.
+
+The Cybersecurity Engineer will report to the Director of Cyber Security and will be responsible for performing in-depth penetration testing assessment reports and work with subject matter experts to minimize risks/threats for SnapAV on a global scale. The individual will execute pre-determined tests while also break into and finds possible exploits in computer systems, products, and software. The candidate will execute pre-determined tests while also able to design their tests using creativity and imagination.
+The Cybersecurity Engineer should be a proactive self-starter who has strong problem-solving analytical skills, high attention to detail, and the ability to effectively communicate, present and influence others. Excellent communication, time management, interpersonal skills and the ability to be a team player are key to be successful in this position.
+Perform in-depth penetration and security assessment testing for
+SnapAV computer systems, products, and software on a global scale
+Demonstrate proficiency with various methods of threat modeling and vulnerability assessment, including vulnerability scanners, password crackers, network protocol attacks
+Conduct regular security audits from both a logical/theoretical standpoint and a technical/hands-on standpoint
+Act as subject matter expert with security, infrastructure, software development, and application technologies across the organization
+Understand and demonstrate proficiency in standard penetration testing frameworks, security, infrastructure, software development, and application technologies
+Analyze engineering projects and roadmaps and identify security dependencies and risks, and design solutions to remediate information security risks
+Manage all information security capabilities, including threat management, vulnerability management, and incident management
+Design, implement, and test information security controls in enterprise, cloud, and product environments
+Willingness and capability to exceed mastery of standard penetration tools toward a deeper understanding of the technology needed to reveal vulnerabilities that standard tool proficiency does not and learn IoT device hacking/reverse engineering of products and devices
+Monitor for security incidents and participate in incident response teams to contain, investigate, and prevent future information security incidents
+Understand current and emerging security threats and design security capabilities to mitigate risks where possible
+Desire to stay abreast of new security technologies and integrate them into the security architecture design where appropriate
+Ensures that all security requirements are met or exceeded
+Research new technologies and propose cost-effective solutions
+Act as an expert in the assigned discipline at SnapAV and applies extensive technical expertise and analysis to initiatives
+
+Required Qualifications:
+Bachelor of Science Degree and 5+ years’ experience; or a Master of
+Science Degree and 3+ years’ experience
+Proficient with various methods of reconnaissance, information gathering including network analysis, web application analysis, database analysis
+Demonstrated in standard penetration testing frameworks including
+NIST 800-115
+Demonstrated track record of proven business results
+Ability to think strategically and make decisions based on thorough research and analysis
+Consistently demonstrates quality and effectiveness in work documentation and organization
+
+Preferred Qualifications:
+CISSP, OSCP, or OSCE certifications

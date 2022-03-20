@@ -1,0 +1,41 @@
+IT Security Specialist
+https://www.linkedin.com/jobs/view/2624289058/
+
+Company: Docler Holding Budapest
+Location: Budapest, Hungary
+Seniority Level: Associate
+Industry: Information Technology & Services
+Employment Type: Full-time
+Job Functions: 
+
+With us, you will…
+- Ensure that we are always ahead of potential threats
+- Penetration testing of our infrastructure and development of scalable test strategies
+- Do vulnerability research on our systems, including exotic ones
+- Develop security tools automating complex tasks
+- Take a hands-on role in building security solutions and improving existing ones
+- Proactively working with product teams throughout the development cycle integrating security best practices
+- Share knowledge with peers and mentor less experienced team members
+
+What we expect from you...
+- Degree in security field or equivalent experience (4+ years)
+- Experience in Ethical Hacking of web applications and networked infrastructure
+- Knowledge of attack vectors, threat tactics and attacker techniques
+- Familiarity with common toolkits used in penetration testing
+- Experience in systems engineering with Linux systems (2+ years)
+- Experience in programming (Python, PHP, JavaScript) (2+ years)
+- Innovative thinker and problem-solver
+- Excellent communication skills in English, both written and verbal
+- Interpersonal skills sufficient to work with both technical and non-technical personnel at various levels in the organizations
+- An open mind, willingness to be challenged and strong desire to learn
+- Experience with OpenStack technologies is a plus
+- Experience with Agile Secure Development Lifecycle and Threat Modelling is a plus
+
+In return, you will get…
+- Full trust from your day 1, with clear goals to achieve
+- High profile engineering team
+- Conferences, meetups
+- Complimentary coffee, tea, and fresh fruit every day
+- Customizable Cafeteria, private health insurance
+- Complimentary guarded parking (cars, motorcycles, bikes)
+- Fantastic events, including Christmas parties, family days, hackathons and other surprises

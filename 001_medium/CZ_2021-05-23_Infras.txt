@@ -1,0 +1,90 @@
+https://www.linkedin.com/jobs/view/2561266648
+
+  Infrastructure Security Architect - Prague
+
+
+*Role Type
+*Permanent
+
+*_What You'll Be Doing
+
+_*The Infrastructure Security Architect is responsible for working
+across the IT project portfolio to design, build and test secure
+infrastructure and the supporting IT systems within Avon, with a
+specific focus on IT Infrastructure such as global corporate networks,
+cloud environments, Operating Systems, End User Computing, mobile
+devices and collaboration services such as email and Microsoft 365
+environments.
+The role is responsible for reviewing or creating High Level Designs and
+Low Level Designs, working with technical teams to ensure solutions are
+secure. The Infrastructure Security Architect will follow documented
+reference architectures and finalize security designs for new
+applications, integrations and supporting infrastructure. This is done
+in collaboration with the Enterprise Security Architect and Security
+Engineering teams.
+
+*_Key Responsibilities
+
+_***Acting as an Infrastructure Security Architect you will:*
+*
+
+  * Design and maintain an information security architecture standards,
+    principles, requirements and guidelines
+  * Maintain information security methodology, (including: assets
+    analysis, threat analysis, risk analysis, business impact analysis)
+  * Perform required information security analyses (including: asset,
+    risk, business impact etc.)
+  * Design and maintain a security related project templates
+  * Define requirements for projects related security controls
+  * Define and maintain a project related security self-assessment
+  * Closely cooperate with the rest of architecting/project teams
+
+*_We'd Love You To Have
+_*
+
+  * A bachelor's degree in Computer Science, Engineering, Information
+    Security, or equivalent work experience
+  * 5+ years of relevant professional experience (Agile development, IT
+    Corporate Systems Security, IT Security Applications)
+  * Knowledge of industry regulations and requirements such as ISO27001,
+    NIST, PCI-DSS and other industry standards.
+  * Experience in planning, research and design corporate systems
+    security architectures
+  * Knowledge how to perform vulnerability testing and security assessments
+  * Experience in researching security systems and authentication protocols
+  * Expertise in developing: security requirements for local, wide, and
+    virtual private networks; security requirements for routers,
+    firewalls, and related network devices; security requirements for
+    cloud components like VPC, WAF, Firewall etc.
+  * Knowledge how to design public key infrastructures
+  * Experience in preparation of cost estimates
+  * TOGAF / SABSA, CISSP, CCSK or CCSP, CEH (preferred)
+  * Good interpersonal skills, as well as collaborative negotiation will
+    be necessary with both internal Avon associates and suppliers
+  * Experience in integration issues identification and cost estimation
+  * Experience in security policies approval
+  * Experience with technical supervision to a security teams
+  * English language skills (spoken and written)
+
+
+      Seniority Level
+
+Associate
+
+
+      Industry
+
+  * Information Technology & Services
+  * Computer & Network Security
+  * Financial Services
+
+
+      Employment Type
+
+Full-time
+
+
+      Job Functions
+
+  * Information Technology
+

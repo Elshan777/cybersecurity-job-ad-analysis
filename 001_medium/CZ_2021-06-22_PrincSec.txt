@@ -1,0 +1,219 @@
+Principal Security Architect
+
+We can offer this position as part time job in case of your
+interest\nSecuring enterprise information by implementing Cybersecurity
+strategy and policies.\nKey accountabilities and decision
+ownership\nResearch and assess new threats and security alerts, and
+recommends remedial actions through the whole lifecycle of enterprise
+servicesDesigns security models and baseline, reviews and approves
+security configuration and architecture of firewall, VPN, router,
+IDS/IPS, WAF, Operating Systems, Cloud environment,
+Middle-ware/database, servers and services/applicationPlan and execute
+the security review, definition and evaluation of project proposals and
+tender materials in relation to information security requirements where
+there is information security relevance, following Secure-by-design
+approach.Assesses the efficiency of existing processes and procedures
+and identifies potential opportunities for process improvementsMaintain
+the IT&NW security solutions assuring confidentiality and consistency
+and availability for other departments to use outcomes of these
+solutionsSupport security incident analysis and assist with incident
+responseWork closely with different IT, business and project teams to
+ensure security controls and procedures are understood and successfully
+implemented and actively monitoredMonitor the fulfilment of the
+cybersecurity requirementsParticipation in Cyber Risk Management
+processIdentifies key controls around network security, logical access,
+change management, system development and implementation, and computer
+operations during walkthroughs of affiliate's IT environmentCommunicates
+or assists in communicating the results of audit and consulting
+projectsInvestigate information security incident, alarmsProvide support
+for developments by determining security and compliance requirements and
+review fulfilment of these requirements.Maintain the Cybersecurity
+solutions assuring confidentiality and consistency and availability for
+other departments to use outcomes of these solutions\nKey performance
+indicators\nFocused on the timely delivery of results while able to
+judge and make compromise when and where neededAchieving Cybersecurity
+Baseline controls scores assigned to him; supporting control owners on
+IT/Network to succeed.Becoming Single Point of Contact for relevant
+security platformsContinuous cooperation with involved business and
+IT&Digital/Network departments throughout the duration of the
+projects.Becoming an enabler for integration projects from exUPC to
+Vodafone network.Engage on innovation initiatives.\nCore competencies,
+knowledge and experience\nHighly motivated, autonomous individual with
+strong information security background and focus on business
+needsAbility to act as a trusted advisor and delivery agent to the
+business functionsAbility to handle multitasking and be aware of
+priorities and reprioritize when needed, managing stakeholders
+expectations.Strong written and verbal English knowledgeBecome a
+business and IT/Network partner, fostering cooperation and strengthening
+relationships with key peers.Be a teamplayer with broader Cybersecurity
+community, linking point with group Cybersecurity function.Being a role
+model for Vodafone spirit principles.\nAnd we offer you\nHere, we
+address each other informally and aren’t really bothered about a dress
+code… It suits us all just fine, and we hope you’ll feel good among us
+too.Let’s not hide the fact that Vodafone is a big name – so we’re
+offering you the stable environment of our company, which is
+simultaneously a challenger on the telecommunications and data market.We
+keep up with the times or even a step ahead, so with us you can enjoy 5
+weeks of vacation, 5 personal days and optional home office… We also
+think about parents, with longer vacations for new dads and the option
+of returning to work sooner under exceptional conditions for moms.If
+Vodafone, then full on – you will get a mobile phone and a great
+unlimited tariff, plus 24 000 benefit points per year which you can use
+in the cafeteria to buy vacations, educational courses or just to invite
+your dearest to the cinema.We’re located on a metro line – right at the
+entrance actually – our headquarters are in Stodůlky. You’ll find
+everything you need in the building and the vicinity for your lunch
+break or coffee break, and you can even shop in the nearby stores.And if
+you need to shake it off after work, you can grab one of the bikes we
+rent, or go to our gym located in the building.\nAt Vodafone, we’re
+passionate about creating inclusive workplaces where everyone can be
+themselves and achieve their best. For us, that means supportive teams
+and strong relationships where everyone’s contribution is valued -
+across social and cultural backgrounds, ethnicities, age, genders,
+gender identities, abilities, sexual orientation, and everything that
+makes us unique. We want the best people to join us and make their
+difference, so we will always consider requests for flexible working
+(such as full-time, part-time,
+home-working).
+
+  *
+    Try Premium Free for 1 Month
+    <https://www.linkedin.com/premium/products?upsellOrderOrigin=premium_nav_upsell_text&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F2629186611%2F%3FrefId%3D62c71088-0c0c-41fc-953e-2382816d324b%26showPremiumWelcomeBanner%3Dtrue>
+
+
+Share
+
+Show more options
+HERE Technologies <https://www.linkedin.com/company/here/life/>
+
+
+  Principal Security Architect
+
+
+Prague, Czechia
+
+Full-time · Associate
+
+5,001-10,000 employees · Information Technology & Services
+
+Actively recruiting
+
+Apply
+Unsave Unsave Principal Security Architect at HERE Technologies
+
+
+      About the job
+
+*What's the role?
+
+*HERE Security recognizes the amazing talent in the Eastern European
+region, and is making a strong investment in the Czech Republic and
+Romania, primarily in Brno, Prague & Bucharest. Eastern Europe is a
+complementary region to our already sizable European footprint, sharing
+the Central European Timezone with most of our other European sites.
+HERE has a diverse team of Security professionals and is excited to
+expand hiring in Eastern Europe!
+
+Security, Privacy, and Continuity (SPC) is a centralized organization
+that secures HERE products and services, ensures best-in-class security
+and privacy for customers and employees, and protects the organization
+against physical and virtual threats. SPC is a globally distributed team
+of security and privacy professionals and is growing to keep pace with
+HERE's expanding business and customer base.
+
+*Security Architects - The team
+
+*You will join HERE’s team of Security Architects who are transforming
+how HERE’s security controls are mandated, implemented, maintained and
+monitored. We are building Continuous Security Controls Monitoring in
+cooperation with the other Security and Privacy teams, and using its
+enterprise-wide observability to influence technology investment and
+implementation decisions by Research & Development and IT. As HERE
+expands its industry-leading advantage in Location Services, we
+simultaneously present an ever brighter target for those who would abuse
+our capabilities and resources. Join a highly agile team at the nexus of
+HERE’s defenses and help keep the Internet a safe place to live and
+work. Teams with a diversity of brains, backgrounds, and personalities
+build more resilient solutions, so we prefer diverse teams at HERE, and
+strongly encourage non-traditional candidates to apply.
+
+*_Main Responsibilities
+_*
+
+  * Influence leaders of teams to elevate the priority of security
+    controls implementation when risk is overly high and, equally,
+    advocate on behalf of risk acceptance when risk is sufficiently low
+    given the business opportunities under consideration
+  * Create software prototypes and automation tools that assemble data
+    about system weaknesses to aid in understanding the scope and
+    breadth of risk.
+  * Coach others in building threat models for HERE technology systems,
+    which connect available threat intelligence to common attack
+    techniques, and link those to their applicability to HERE systems.
+  * Author and/or curate guidance documentation that recommends how
+    developers and engineers may quickly harden their systems.
+
+*Who are you?
+
+**_Furthermore
+
+_*You are highly experienced technical security professional with broad
+scope focused on data-driven analysis of HERE’s complex technology
+systems to uncover systemic security weaknesses, assess the level of
+risk they present to HERE, and advise practical techniques or
+adaptations for mitigating or reducing that risk. In this role will
+commonly apply data analysis, risk assessment and threat modeling
+techniques, and coordinate various teams in the development of
+mitigation solutions. You take initiative and seek to influence improved
+security in teams throughout the enterprise.
+
+  * Many years of experience securing IT systems and infrastructure
+  * Fluency with one or more scripting or application programming languages
+  * Direct experience with the software development lifecycle and the
+    tradeoffs encountered therein
+  * Examples from your experience where you used data to showcase
+    progress and accomplishment
+  * Ability to communicate how security principles and secure
+    architectures help prevent intrusion and abuse of complex
+    multi-system IT solutions
+  * Comfort and confidence adapting communication approach to reach a
+    variety of audiences, from non-technical business personnel to
+    Ph.D.-educated technology experts
+  * Demonstrated ability to influence consensus across domains
+
+HERE is an equal opportunity employer. We evaluate applicants without
+regard to race, color, age, gender identity, sexual orientation, marital
+status, parental status, religion, sex, national origin, disability,
+veteran status, and other legally protected characteristics .
+
+*Who are we?
+
+*HERE Technologies is a location data and technology platform company.
+We empower our customers to achieve better outcomes – from helping a
+city manage its infrastructure or a business optimize its assets to
+guiding drivers to their destination safely.
+
+At HERE we take it upon ourselves to be the change we wish to see. We
+create solutions that fuel innovation, provide opportunity and foster
+inclusion to improve people’s lives. If you are inspired by an open
+world and driven to create positive change, join us. Learn more about
+us. Watch Video
+
+
+      Contact the job poster
+
+Job poster profile <https://www.linkedin.com/in/martinslikkerveer/>
+
+Martin Slikkerveer
+
+<https://www.linkedin.com/in/martinslikkerveer/>
+
+Principal Talent Acquisition Business Partner EMEA
+
+Job Poster Location
+
+Knegsel, North Brabant Province, Netherlands
+
+Send InMail
+<https://www.linkedin.com/premium/products/?destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2F2417285115%2F%3FrefId%3Dcc30987a-cf4b-49c8-8619-c62296bc4dec%26showPremiumWelcomeBanner%3Dtrue&family=jss&upsellOrderOrigin=premium_job_details_upsell_job_poster>
+

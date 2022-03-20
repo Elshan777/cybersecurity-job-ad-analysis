@@ -1,0 +1,63 @@
+https://www.linkedin.com/jobs/view/2552677930/?alternateChannel=search&refId=cPU8MQyprRinCUuxUxjIBw%3D%3D&trackingId=Mn71%2Be0kaKksQ3SEr9uMgg%3D%3D
+
+  Aircraft Cyber Security Engineer
+
+Lilium <https://www.linkedin.com/company/lilium-aviation-gmbh/life/>
+Munich, Bavaria, Germany 1 month ago 5 applicants
+
+Full-time · Mid-Senior level
+
+
+*_Your Role And Your Team_*
+
+As Aircraft Cyber Security Engineer you are responsible to oversee the
+security assurance activities within the aircraft program on system
+level. You will report directly to the Manager Aircraft Cybersecurity
+and you will work on airborne systems for the next-generation aircraft
+within the extended chief engineering team.
+
+Whether you are working on the definition of systems and related
+technology solutions, software and hardware development, system
+integration or our co-ordination with regulatory partners, manufacturers
+and suppliers, you’ll have the chance to play a fundamental role in
+supporting full product lifecycle, from conceptual design and
+requirement definition to production transition.
+
+This is a key role to collaborate with multi disciplinary project teams
+to meet customer's needs and improve the overall security architecture.
+You will also have the chance to play an active role in defining and
+tuning the Cyber Security Engineering processes and tools.
+
+
+*_Your Day To Day_*
+
+  * Security Assurance activities for systems on the aircraft, including
+    security risk assessments and system security architecture definition
+  * Co-operate with safety, hardware/software, and system engineering teams
+  * Develop and maintain security development standards for new
+    generation airborne systems
+  * Provide awareness and training to system engineering teams within
+    the company
+  * Ensure that security requirements and controls are communicated to
+    suppliers
+
+
+*_Your Profile_*
+
+  * Master’s in Computer Science, Embedded System Design, or IT Security
+  * At least 5 years experience in functional safety systems / security
+    engineering
+  * Applied knowledge of Threat Modeling techniques
+  * Working knowledge of at least one of the following security
+    standards/guidelines (DO-326A/ED-202A series, ISO 27000, SAE J3061,
+    ISA/IEC 62443)
+  * Solid understanding of aeronautical networking and communication
+    protocols
+  * Target oriented, driven workstyle in analytic problem-solving skills
+    required
+  * Preferably a security certification in, e.g., OSCP, CEH, CISSP,
+    ECSA, or related
+  * Fluent English language skills are essential, Fluent German or any
+    other language would be beneficial
+
+

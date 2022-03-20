@@ -1,0 +1,63 @@
+IT Security Engineer
+
+Company: Epicor Software
+Location: Bratislava, Slovakia or Budapest, Hungary
+Industry: Information Technology & Services, Computer Software, Internet
+Employment Type: Full-time
+Job Functions: Information Technology
+Seniority: Entry level
+
+The role:
+The IT Security Engineer is responsible for evaluating, developing, designing, testing, implementing, and deploying security devices, systems and infrastructure used to mitigate risk and safeguard the organization’s information assets. Plans, designs and develops security measures to safeguard information against accidental or unauthorized modification, destruction, or disclosure. Works with management and other personnel, as needed, to identify security needs.
+
+What you’ll do:
+- Design, deploy, test, document and manage enterprise security solutions, systems & infrastructure.
+- Provide technical expertise and analysis for all areas of security technology, including network security, platform security, authentication/authorization systems, identity & access management systems, application security and security infrastructure.
+- Participate in the development and delivery of IT security standards, best practices, architectures and systems.
+- Identify and remediate security risks, threats and vulnerabilities across networks, systems and applications.
+- Research, evaluate, design, test, recommend, and plan implementation of new and/or improved information security devices, systems & infrastructure.
+- Proactively protect the integrity, confidentiality, and availability of information stored & processed by and/or in the custody of Epicor Software.
+- Work with appropriate technology groups to evaluate, select, install, and configure hardware & software systems to comply with established enterprise security standards and policies.
+- Develop technical documentation to support the design, evaluation, selection, installation, and maintenance of security systems.
+- Keep abreast of emerging security threats, industry trends, technologies, products and services.
+- Produce and maintain detailed IT security engineering specifications, designs and documentation.
+- Develop and document technical security standards to comply with policies and best practices.
+- Conduct technical evaluations of IT systems for compliance with security policies, standards and best practices.
+- Implements security remediation for non-compliant areas of IT.
+- Support other department initiatives and deliverables as needed
+
+What skills you’ll need:
+- Bachelor or Masters degree (preferably in a technology related field) or any combination of equivalent education, experience, and formal training that allows the candidate to meet the requirements of the job.
+- CISSP and/or relevant SANS/GIAC certifications strongly desired but not required.
+- 4 or more years of information technology experience, at least 2 of them in a relevant information security and/or risk management field.
+- In depth knowledge of the IT security industry & best practices.
+- Broad knowledge of the IT industry as a whole.
+- Strong organizational and teamwork skills.
+
+Prior information security engineering experience in as many of the following areas a possible:
+- Operating system and platform security (Microsoft Windows and Linux required. Mac OS X, IOS and Android strongly desired).
+- Network security (LAN, WAN, MPLS, VPN).
+- Storage Area Network (SAN) security
+- Application & System security.
+- Cloud, virtual and Software-Defined Network (SDN) security.
+- Network, application and next-generation firewalls.
+- Intrusion detection & prevention systems.
+- Unified threat management systems.
+- Digital Loss Prevention (DLP) systems.
+- Secure Web Gateway systems.
+- Wireless & mobile device security.
+- Anti-virus and malware systems.
+- Log-monitoring and event management systems.
+- Security scanning and vulnerability detection tools.
+- Identity & access management systems.
+- Directory services (Microsoft Active Directory, LDAP, etc.)
+- Voice Over IP (VOIP) security.
+- Camera, biometric and physical access systems.
+
+What skills would set you apart:
+- Bachelor or Masters degree (preferably in a technology related field)
+- Security-related certifications strongly desired, (Security+, CEH, OSCP, GIAC GSEC, CISSP, etc)
+
+Why apply:
+In this role at Epicor it will provide the right candidate with the opportunity to broaden their knowledge/experience in a technology driven organisation and make a lasting impact on our overall business and customer environments. As a key member of the team you will play a major role in our success to stay safe and head off threats in the enterprise and to identify security needs that will keep our business safe. Additionally, your growth potential at Epicor is limitless. After spending time in the role, you’ll have the tools and support you need to move onto different opportunities and roles utilizing our structured Epicor career pathway.
+In return you can expect a great team environment to work in, with a competitive salary and benefits.

@@ -1,0 +1,31 @@
+Cyber Security Developer 
+
+About the job
+Do you have a strong interest in the IT security field and are you looking for a new professional challenge? The digital transformation is speeding up and a new competitive reality where data insights are important and critical. Do you want to join us in our journey? We warmly welcome you to apply and be part of our team!
+
+
+YOU WILL
+
+As our Cyber Security Developer, you will contribute and implement new security tools within our IT Security Team. This is a role where you will be an important resource in our professional service delivery. Knowledge sharing, and collaboration is done continuously between team members to improve our way of working and further develop individual competence levels.
+
+
+You will be responsible to take care of all aspects of the Security of the IT infrastructure and systems in the whole Duni Group to ensure business continuity, availability, and system performance. Ensuring that the organization's data and infrastructure are protected by enabling the appropriate security controls are important. You will be planning, implementing, managing, monitoring, and upgrading security measures for the protection of the organization's data, systems, and networks.
+
+
+Daily tasks include:
+
+
+Troubleshooting security and network problems, but also testing and identifying network and system vulnerabilities
+Responding to all system and/or network security breaches
+Daily administrative tasks, reporting, and communication with the relevant departments in the organization.
+Create documentation for future IT security solutions and administration of Fortinet firewalls within the company
+Researching and implementation of the best possible security system
+Design and develop new O365/M365 security & compliance policies
+
+YOU ARE
+
+We expect you to have high IT supportive skills in framing security systems and excellent knowledge in security tools. You have an analytical mind and a detailed understanding of cybersecurity methodologies. Furthermore, you are self-propelled and see problem solving as an exciting challenge. Trustworthiness, ownership, teamwork, and communication skills are highly appreciated personality traits. To be efficient in the interaction with others, you need to be fluent in written and spoken English.
+
+
+As s Cyber Security Developer, we expect you to contribute with excellent knowledge in areas such as network management including TCP/IP, DNS, DHCP, Routing, VLANS, administration of Firewalls (Fortinet) and Cisco VPN appliances. To be successful in this position, you will also need excellent knowledge in Veeam Backup & Recovery tools, HP/Aruba network equipment and M365/O365 Security & Compliance.
+

@@ -1,0 +1,52 @@
+Security Operations Engineer (SecOps)
+
+Responsibilities
+Run secure code assessments and advise developers on remediation.
+Maintain static and dynamic security analysis tools and integrate them into the CI pipeline.
+Provide timely and adequate information about the current state of Toptal security.
+Develop corporate security practices, policies, and standards.
+Respond to any ongoing or completed incidents, help teams to find the root cause, and set possible action points.
+Contribute to application designs and solutions and assist with code reviews.
+Educate staff on personal, corporate, architecture, and development security best practices.
+
+
+In The First Week, Expect To
+Onboard and integrate into Toptal.
+Rapidly begin learning about Toptal’s history, culture, and vision.
+
+
+In The First Month, Expect To
+Get familiar with the tools we use to assess and improve the security of our applications.
+Complete necessary training.
+Deliver your first tickets through to completion.
+Begin collaborating with other teams.
+
+
+In The First Three Months, Expect To
+Track the latest vulnerabilities in used frameworks and technologies and communicate to developers on how to mitigate them.
+Improve the security audit of our applications (integrate new security tools, scale current solutions to more projects, create dashboards with metrics, and set up automated notifications for our teams).
+Work on achieving team OKRs.
+
+
+In The First Six Months, Expect To
+Take part in making design/implementation decisions.
+Investigate security events and carry-on follow-up actions.
+Suggest and implement improvements for our processes and tools.
+Hold security awareness & education sessions and develop appropriate materials for the whole company.
+
+
+In The First Year, Expect To
+Assist in preparation for certification against one of the modern security standards (ISO 27001, SOC1 or other).
+
+
+Requirements
+3+ years’ experience with application security.
+Experience in application development with at least 1 modern programming language.
+Experience with CI/CD tools like Docker and Jenkins, as well as cloud platforms (preferably GCP).
+Knowledge of OWASP methodology and web and mobile vulnerabilities.
+Be familiar with common security standards (e.g. ISO/IEC 27000-series, GDPR, SOC1).
+Be familiar with SAST and DAST tools like BurpSuite, OWASP ZAP, NMap, Metasploit, Kali Linux, etc.
+Ability to solve complex problems by considering multiple solutions, weighing them, and deciding on the best course of action.
+Be genuinely interested in technology and love to try new things.
+Be open to receiving constructive feedback.
+You must be a world-class individual contributor to thrive at Toptal. You will not be here just to tell other people what to do.

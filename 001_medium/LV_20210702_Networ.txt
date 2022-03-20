@@ -1,0 +1,19 @@
+Network Security Administrator
+
+
+Your daily responsibilities:
+
+Design, implementation and operation of modern network and security environments on hybrid, public and private cloud infrastructures
+Planning and implementation of proof of concepts as part of the development of new network & security services
+Consistent automation of standard processes (Terraform, Ansible)
+Additional to cloud infrastructures in AWS and Azure, you will work with technologies such as Cisco's Nexus switches, firewalls from Fortinet and virtualised networks based on VMWare's NSX and SD-WAN products
+
+
+Your background:
+
+Experience in network and firewall technologies and OSI layers 1-4
+Good knowledge of network and application protocols
+Dynamic routing over multiple redundant paths and dynamic load distribution as well as a high awareness of network security 
+Joy of analyzing complex problems and solution orientation
+Experience with Azure or AWS or with Citrix' Netscalers will be a plus 
+Service orientation, ability to work in a team and enthusiasm about new technologies

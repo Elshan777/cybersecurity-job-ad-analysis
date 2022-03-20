@@ -1,0 +1,55 @@
+Cyber Security Incident Responder
+
+Company: Tech Data
+Location: Belgrade, Serbia
+Industry: Computer Hardware, Computer Software, Information Technology & Services
+Employment Type: Full-time
+Job Functions: Information Technology
+
+About the job
+Job Purpose:
+The Cyber Security Incident Responder is responsible for implementing and supporting incident response process through the detection, containment, and remediation of cyber threats. Incident Responder manages security incidents, ensuring they are properly identified, analyzed, communicated, actioned/defended, investigated and reported. Additionally design and build use cases and detection techniques to address new threats and improve SOC’s security monitoring and alerting capabilities as well as supports core processes, identify threats and security gaps, and collaborates to develop measures to protect company information.
+
+Responsibilities:
+Manages Incident Response process
+Serve as escalation points for cybersecurity incidents
+Perform and coordinate technical cybersecurity investigations on security incidents, root cause analysis, recommend and mitigate the effects caused by an incident.
+Provide technical Incident Response guidance to SOC Analysts
+Supports appropriate threat detection controls in SIEM and other security solutions to prevent and detect security incidents.
+Manage creation and update Incident Response playbooks
+Identify best practices and continuously improve technical standards, processes, procedures and guidelines to enable proper cyber risk mitigation.
+Keep key business stakeholders updated / engaged on key security incidents and related developments.
+
+Knowledge, Skills and Experience:
+Bachelor or Master’s Degree in Computer Science, Information
+Security or another similar relevant degree.
+5+ years of information security and/or cyber security experience including 3+ years of experience in cyber security monitoring and/or cyber incident response.
+Experience and keen understanding of cybersecurity tools, including SIEM, SOAR or Endpoint detection & response solutions
+Understanding of latest security technologies and concepts, threat management, incident handling.
+Other Education / Certifications: selection of security and technology certifications such as CISSP or GCIH and/or equivalent proven work experience
+Understanding of SAP security solutions is welcome
+Able to recognize and attend to important details with accuracy and efficiency.
+Able to communicate clearly and convey necessary information.
+Able to converse and write effectively in English and local language.
+Able to create and conduct formal presentations.
+Able to interact effectively with all levels of management
+Possesses strong multi-cultural interpersonal skills.
+Possesses strong organizational and time management skills, driving tasks to completion.
+Able to constructively work under stress and pressure when faced with high workloads and deadlines.
+Able to maintain and promote social, ethical, and organizational standards in conducting internal and external business activities.
+Able to work independently with minimum supervision.
+Work with and able to maintain confidentiality of sensitive information
+Able to build solid, effective working relationships with others.
+Able to exhibit ability to be sensitive to the needs, concerns, and feelings of others.
+Able to quickly learn new systems and technology.
+Able to use relevant computer system applications at an advanced level.
+
+Working Conditions:
+Remote work allowed
+Occasional non-standard work hours or overtime as needed.
+On-call availability required as necessary.
+Some travel required.
+Cultural Competency Requirements:
+Within Tech Data diversity is one of our fundamental shared values.
+We are a multi-cultural environment and we pride ourselves on being a welcoming place of work where we celebrate inclusion and champion people from a multitude of backgrounds.
+Join our team to connect the world with the power of technology!

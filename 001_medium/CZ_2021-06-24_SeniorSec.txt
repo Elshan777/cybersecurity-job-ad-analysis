@@ -1,0 +1,85 @@
+﻿https://www.linkedin.com/jobs/view/2496353267/?refId=9168e9df-22e5-4afe-bd8c-8a3860c90f8c
+
+Senior Security Operations Engineer at Pure Storage
+
+
+      About the job
+
+
+*YOU WILL BE…....
+*
+
+  * Responsible for the onboarding of security systems and services into
+    security operations
+  * Responsible for management, administration & maintenance of security
+    devices and services
+  * Contributing to the maturity of the SOC; evaluate current tools and
+    techniques to better secure data and drive integration with new
+    products and services
+  * Contributing to and maintenance of operations roadmaps for security
+    infrastructure components including intrusion prevention/detection,
+    data security, IT/network security, threat intel, information
+    sharing, and incident tracking
+  * Creating and implementing security requirements for operating the
+    security infrastructure in a consistent manner
+  * Bringing new ideas and innovations to the table, with a focus on
+    continuous improvement and productivity of the team overall
+
+*_You Should Have
+
+_**WHAT YOU'LL NEED TO BRING TO THIS ROLE......
+*
+
+  * A passion for information security and technology who loves to solve
+    problems traditionally or creatively
+  * A DevOps mindset, and able to think outside the box Experience with
+    SOC technologies such as IDS/IPS, UTM firewalls, EDR, anti-virus,
+    network-based threat detection, SIEM, and netflow
+  * Experience working with Docker and cloud computing platforms.
+  * Ability to automate tasks using a preferred language (e.g. Python,
+    Powershell)
+  * 5+ years of experience in an operations center environment (GSOC,
+    SOC, CFC, or similar 24x7 communications hub)
+  * An understanding of operational risks that drives the response
+    process to minimize the impact of these risks
+  * Experience mapping control frameworks to security practices
+  * Proven track record running and maintaining IT systems
+  * Linux+, MCSE, Security +, CISSP, AWS CSS, or relevant experience
+  * BS in Information Security or a related technical role or equivalent
+    experience
+  * Experience representing technical viewpoints to diverse audiences
+    and in making prudent technical risk decisions
+  * Self motivated with a strong sense of ownership, “can-do” attitude,
+    urgency and drive
+  * Excellent interpersonal, organizational, communication, and writing
+    skills
+
+This role is based in our Prague office and open to candidates in the
+surrounding areas.
+
+*BE YOU—CORPORATE CLONES NEED NOT APPLY.
+
+*Pure is where you ask big questions, think differently, and make an
+impact. This is not just a job, but a place where you have a voice and
+can accelerate your career. We value unique thoughts and celebrate
+individuality, and with ample opportunity to learn, develop yourself,
+and expand into different roles, joining Pure is an investment in your
+career journey.
+
+Through our Pure Equality program, which supports a flourishing field of
+employee resource groups, we nourish the personal and professional lives
+of our team members. And our Pure Good Foundation gives back to local
+and global communities through volunteering and grants.
+
+And because we understand the value of bringing your full and best self
+to work, we offer a variety of perks to manage a healthy balance,
+including flexible time off, wellness resources, and company-sponsored
+team events.
+
+*PURE IS COMMITTED TO EQUALITY.
+
+*Research shows that in order to apply for a job women feel they need to
+meet 100% of the criteria while men usually apply after meeting about
+60%. You don't have to meet all the job requirements. If you believe you
+can do the job and are a good match, we encourage you to apply.
+

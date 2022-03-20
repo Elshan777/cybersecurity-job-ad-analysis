@@ -1,0 +1,38 @@
+L3 Security Engineer, Cyber Security
+https://www.linkedin.com/jobs/view/2612089232/
+
+Company: Norsk Hydro
+Location: Budapest, Hungary
+Seniority Level: Mid-Senior level
+Industry: Mining & Metals
+Employment Type: Full-time
+Job Functions: 
+Remote: 
+
+ROLE PURPOSE:
+
+Maintain cloud security solutions and support the SOC and business by analysing reports of cloud security solutions, delivering and fine-tuning security policies, participating in complex projects, performing product assessments
+
+ 
+
+RESPONSIBILITIES:
+- Tool engineering and deployment
+- Security risk assessment and planning
+- Sensor tuning and tool improvements
+- Security consulting
+- Complex project participation
+- Product assessment
+- Participation in on-call duty service
+
+Work Experience - 3+ years of work experience in IT Security field
+
+Education - Bsc or Msc degree in Information Technologyor any technological institute with position related work experience.
+
+Licensing/Certification - Any certification in the security field is an advantage (ASE, CISSP, CISA, CISM, CEH)
+
+Technical Knowledge -
+- Knowledge of security tools and standards
+- Cloud security knowledge
+- Confident knowledge of Azure security
+- Azure related trainings and certifications are advantages
+- Vulnerability management

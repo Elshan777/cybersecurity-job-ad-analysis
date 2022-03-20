@@ -1,0 +1,30 @@
+Embedded Security Engineer
+
+
+What you'll do 
+
+New feature introduction, including latest payment schemes and cryptographic standards
+Improvement of sensitive data protection with cryptographic, hardware, software policy measures
+Code base sustaining and improvement
+Issue investigation
+Latest vulnerability fixing in our and open-source software components
+Device penetration testing
+Remote automated testing on real hardware
+
+
+What qualifications will you need to be successful? 
+
+Experience in C development: understanding how code is compiled and executed by the processor, how data is stored and processed
+Knowledge of Linux systems
+Good written and spoken English
+Experience with debugging techniques and tools at both userspace and kernelspace
+Experience with scripting languages (Bash, Python)
+Nice to have:
+
+Experience in software security is considered an advantage: Data encryption, authentication; Access control, authorization
+Experience in proactive vulnerability investigation and software fuzzing is considered an advantage
+Experience in embedded C is considered an advantage
+Linux kernel and driver development experience are considered an advantage
+Experience with ARM TrustZone is considered an advantage
+PCI-PTS or other security standard knowledge is considered an advantage
+C++ knowledge is considered an advantage

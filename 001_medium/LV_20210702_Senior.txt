@@ -1,0 +1,63 @@
+Senior Infrastructure Engineer
+
+Position Description
+
+We are looking for an experienced engineer to build and scale services in a cloud environment within our Infrastructure team. Our Infrastructure Engineers work with a high-energy, fast-paced team responsible for supporting initiatives and operations across Toptal.
+
+This is a remote position that can be done from anywhere. Due to the remote nature of this role, we are unable to provide visa sponsorship. Resumes and communication must be submitted in English.
+
+Responsibilities
+Toptal services are deployed across hundreds of servers. You will be responsible for designing, building, deploying, and maintaining highly available production systems, with shared ownership with the development teams.
+We are embracing DevOps practices, where the Infrastructure team develops systems, automation, tooling, and workflows and has a consulting/mentoring role in enabling developer teams to own the whole lifecycle of the software they are making.
+Implement monitoring for automated system health checks, develop procedures, and maintain system troubleshooting and maintenance documentation.
+Collaborate regularly with engineering teams to improve the company’s engineering tools, systems, procedures, and data security, not just administer clusters and cloud services.
+Join daily scrum standups (GMT-3 to GMT+5). Expect pair programming, engaging in peer code reviews, and using collaboration tools like Slack and Zoom.
+
+
+In The First Week, Expect To
+Join our boot camp team and begin onboarding into Toptal.
+Learn about our team’s processes and get familiar with the code that maintains our infrastructure resources.
+
+
+In The First Month, Expect To
+Gain insight into our systems by learning why they are built the way they are and how to improve them.
+Monitor systems security, performance, and availability.
+Begin to learn a variety of roles in a wide range of Infrastructure projects.
+
+
+In The First Three Months, Expect To
+Start working on support tasks to get familiar with the core tools and setup and everyday challenges.
+Provide excellent customer service by understanding and addressing the teams’ needs and expectations through effective communication and collaboration while learning about our infrastructure.
+Deliver internal Infrastructure and services such as monitoring, logging, automation, and data services targeted at our internal users.
+Support the development of CD pipelines and next-generation Kubernetes based infrastructure platform.
+
+
+In The First Six Months, Expect To
+Support Infrastructure design, architecture, and implementation support.
+Have opportunities to be involved in systems design, identify new technologies to support the business, and resolve infrastructure compatibility and performance problems as they arise.
+Participate in the on-call rotation schedule (during business and after hours) to support all infrastructure-related systems.
+Report any downtime or performance issues faced by the system, drill down to find out what caused it, and coordinate with other teams to resolve them.
+Handle incident resolution if a developer is not needed.
+Participate in our Disaster Recovery, change control, and security standards initiatives.
+
+
+In The First Year, Expect To
+Communicate with key partners on project engagements.
+Partner closely with our teams in the engineering area to develop infrastructure automation and management solutions with a strong focus on scalability, observability, automation, reliability, security, and quality in Google Cloud Platform.
+Plan and coordinate testing of changes, upgrades, patches, new releases, and new services.
+Participate in technology initiatives that enable developers to deliver their services to our customers with minimal friction and a high degree of quality.
+
+
+Requirements
+Experience with Kubernetes environments: production operations, troubleshooting, debugging, cluster provisioning, and management.
+Be proficient in deploying automation with tools like ansible and terraform, as well as version control.
+Be eager to help teammates, share knowledge with them, and learn from them.
+Previous experience managing infrastructure configuration and provisioning through code for large, distributed systems on public cloud platforms (AWS, GCP).
+Solid understanding of Linux debugging, LAN and WAN networking, IP addressing, Load Balancing, VPNs, and routing.
+A strong understanding of modern systems and service-related security methodologies.
+Hands-on experience with system and application metric collection and alerting services like Graphite, Grafana, Prometheus, InfluxDB, Sensu, or others. A keen focus on what makes a system observable.
+Proficient in scripting languages such as Python, Bash, Ruby, etc.
+Understanding of and experience with continuous integration and continuous deployment patterns and tools such as Jenkins and Travis.
+Outstanding troubleshooting skills. Experience in resolving complex problems through various troubleshooting protocols and processes.
+Experience with Docker, Docker Compose, and building optimized docker files.
+Experience running RDBMS. PostgreSQL experience is an added advantage.

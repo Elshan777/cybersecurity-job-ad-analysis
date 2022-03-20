@@ -1,0 +1,39 @@
+L3 Security Engineer, Cyber Security
+https://www.linkedin.com/jobs/view/2612089232/
+
+Company: Deutsche Telekom IT Solutions HU
+Location: Budapest, Hungary
+Seniority Level: Associate
+Industry:  IT Services and IT Consulting
+Employment Type: Contract
+Job Functions: 
+Remote: 
+
+About the job
+
+Responsibilities
+
+The Customer Security Manager is responsible that the security services and security SLAs will be met according to the contract with the customer
+- Support the security transfer process during transition and transformation to future mode of operation (FMO)
+- Support service delivery management with respect to security issues and take over the role as “named interface” to the customer
+- Ensure that customer-specific security requirements are known, commissioned and implemented
+- Controlling and coordination resp. evaluation of customer-specific Security-Risk-management
+- Initiate, control, evaluate and assure quality of customer-specific Security Reporting
+- Steering and coordination of customized Security-improvement- and Innovations-programs
+- Prepare and conduct regular steering meetings internally and with customer
+- Develop and maintain the customer specific security governance model
+- Provide agreed service level reporting towards customer (e.g. access to secure rooms, overall incident reporting, incident analysis reports)
+- Manage security events and security incidents with support of operational teams
+- Support development and implementation of customer specific security requirements
+- Coordinate operational security measures and services
+- Plan and support customer specific security audits (including pre-audits)
+- Initiate, plan and conduct new security projects arising from customer’s current contract (CRs)
+- Identify and propose customer specific security improvements and innovations
+- Depending on customer: support 24 x 7 standby services, Depending on customer: take over role as IT Service Continuity Manager., Initiate, plan and conduct new security projects arising from customer’s current contract (CRs)
+- Experience with risk and compliance management
+- Strong communications skills to align with Customer at management and technical level as well as internally with the technical level.
+- High level understanding of the technologies in T-Systems' portfolio (e.g. Cloud, network, endpoint) and security services (vulnerability management, security monitoring, AV/EDR)
+- Fluent German
+
+Advantage
+- English

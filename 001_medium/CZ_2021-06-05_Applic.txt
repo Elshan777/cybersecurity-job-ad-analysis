@@ -1,0 +1,100 @@
+https://www.linkedin.com/jobs/view/2512324581/?alternateChannel=search&refId=bX6Psd%2BdUz0fjmx%2BT5vUrw%3D%3D&trackingId=LKrmVMRWkXrxvpKJaFu0zA%3D%3D
+
+  Application Security Architect
+
+
+Easy Apply
+
+
+
+
+
+*JOB OVERVIEW:*
+
+
+In this mission-critical role as a Security Architect, you will serve as
+the AppSec technical lead for global, enterprise-wide
+
+Blazemeter Continuous Testing SaaS platform. You will be part of a
+dynamic global application security team, working directly with software
+architects and software engineers to establish, enable, and improve the
+security of the software solutions developed within the company.
+
+
+You’ll work in a fast-paced environment, helping enable teams to work in
+a DevSecOps model in a world of containers, automated pipelines, and
+rapid deployments. And you’ll be instrumental in securing applications
+and services in a cloud environment.
+
+
+*RESPONSIBILITIES:*
+
+
+  * Work as the lead to design, implement and govern the overall
+    security architecture of BlazeMeter product.
+  * Manage security considerations for the transition of SaaS on-prem
+    applications to private cloud environments.
+  * Aligning the secure development lifecycle to industry standards,
+    including Microsoft SDL, OWASP development guides, and Privacy/PII
+    related topics (privacy-by-design).
+  * Integrate/enable security engineering automation (e.g. SAST, IAST)
+    in the delivery pipeline.
+  * Perform proof-of-concept and proof-of-technology testing for
+    integrating new 3rd party security products into the development and
+    deployment processes.
+  * Lead threat modeling, design reviews and code reviews as part of the
+    development lifecycle.
+  * Participate in application pen testing and remediation efforts with
+    engineering teams.
+  * Design and deploy state-of-art technology to meet the business needs
+    and interface with business units regarding technical planning and
+    application security topics.
+  * Lead the implementation of proposed solutions to ensure the
+    coordination, communication and successful delivery of projects.
+  * Develop and maintain security procedures and guidelines. 
+
+
+*REQUIREMENTS:*
+
+*﻿*
+
+  * Bachelor’s Degree in a technical discipline or equivalent work
+    experience.
+  * Background in software development.
+  * Pipeline/CI/CD/automation experience.
+  * Experience with various cloud providers (GCP/Azure).
+  * Experience in Penetration Testing.
+  * Experience in security tools like Twistlock, Coverity, Black Duck,
+    Aquasec, Qualys…
+  * Container experience (Docker, Kubernetes).
+  * Knowledge of Security certifications like FIPS and SOC 2 is an
+    advantage.
+  * Soft skills - effective communication (internal, customer, legal
+    counsel), collaboration (internal, external) and effective written
+    skills (white papers, vulnerability specifications etc.).
+
+
+      Job Details
+
+
+      Seniority Level
+
+Mid-Senior level
+
+
+      Industry
+
+  * Computer Software
+  * Information Technology & Services
+
+
+      Employment Type
+
+Full-time
+
+
+      Job Functions
+
+  * Information Technology
+  * Engineering
+

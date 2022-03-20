@@ -1,0 +1,80 @@
+https://www.linkedin.com/jobs/view/2648452210/?alternateChannel=search&refId=WfMV0VGUzKUqae1Ki2uMHw%3D%3D&trackingId=x%2FZSKAxVoCy7fb%2FSvvtnhA%3D%3D
+
+  Security Engineer
+
+Netskope <https://www.linkedin.com/company/netskope/life/> Valencia,
+Valencian Community, Spain Remote 2 weeks ago 5 applicants
+
+Full-time · Mid-Senior level
+
+1,001-5,000 employees · Computer Software
+
+*Job Overview
+
+*Within Netskope Engineering, the IaaS team is responsible for building
+cloud-scale Cloud Security Posture Management (CSPM) that gives
+enterprises visibility /compliance for critical workloads and DLP /
+Malware protection for critical data running in public cloud
+infrastructures such as AWS, GCP, and Azure. We are currently looking
+for talented engineers to join our team. As a member of the IaaS team,
+you will have the opportunity to develop innovative solutions to protect
+the exponentially increasing amount of enterprise data and workloads
+being deployed in the public cloud.
+
+*_Job Responsibilities
+_*
+
+  * Work on the trifecta of visibility, compliance and remediation for
+    public cloud security.
+  * Work closely with customer facing teams to understand the security
+    needs of customers in public cloud environments.
+  * Explore different threat vectors for services across public clouds.
+  * Exercise your security research skills to PoC novel security
+    policies to detect complex misconfiguration scenarios using python,
+    powershell etc.
+  * Research and implement advanced layered public cloud security use
+    cases like IAM analytics, true network exposure etc.
+  * Implement the novel best practice rules using the Netskope Security
+    Language.
+  * Implement test automation and metrics for measuring security efficacy.
+  * Implement auto remediation using AWS lambda, Powershell etc
+  * Act as a bridge between engineering, research, product management,
+    customer success, and customer support teams.
+  * Provide a customer perspective to the engineering team.
+  * Publish articles, blogs and papers in relevant conferences.
+
+*Qualifications
+
+*BS (MS Preferred) - Computer Science, Information Security
+
+*_Required Technical Skills
+_*
+
+  * A good understanding and knack for automating public cloud
+    infrastructure security, deployment and monitoring.
+  * Expert in using AWS / Azure / GCP.
+  * At least 3 years experience with Public Cloud services.
+  * 8 -12 years of experience as a Security Engineer or Cloud DevSecOps
+    Automation Architect.
+  * Working knowledge of public cloud security compliance standards like
+    CIS, NIST, PCI, HIPPA, SOC etc.
+  * Proficient in any one scripting language (e.g., python, power shell,
+    etc.)
+  * Experience with IaC like Terraform, Cloud Formation Template, etc.
+  * A best fit will be someone who has been a Security Research Engineer
+    working in implementing novel security policies.
+  * Hands on experience with services like AWS Guard Duty, AWS
+    Inspector, AWS Config or Azure Security Center.
+
+*_Desired Technical Skills
+_*
+
+  * Experience with docker/kubernetes orchestration and security.
+
+*_Additional Skills
+_*
+
+  * Great written and verbal communication.
+  * Ability to work in a geo-distributed cross-functional group.
+
+

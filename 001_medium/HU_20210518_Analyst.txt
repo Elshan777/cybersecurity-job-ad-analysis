@@ -1,0 +1,59 @@
+IT Security Analyst
+https://www.linkedin.com/jobs/view/2554195918/
+
+Company: INNOVIEW 
+Location: Budapest, Hungary
+Seniority Level: Associate
+Industry: Information Technology & Services, Computer Software, Financial Services
+Employment Type: Full-time
+Job Functions: Information Technology
+
+About the job
+Job Description
+We are currently looking for an IT Security Analyst who will support our partner's departments in Budapest with creation and enhancement of locally managed IT applications and management information reports.
+
+Security
+
+Main tasks and responsibilities
+- Managing the list of machines in PCI DSS scope (liaise with IT, HR and PCI team)
+- Understand and document the Operational Processes of FSSC, creates flow diagrams for the PCI DSS team, keep them updated
+- Keeping track of the pre-audits with quarterly scans, schedule additional scan in case of failure,
+- Analyze the snooper result with the Supervisors, OP Manager the results, wipe data where needed, send the proofs to PCI Team
+- Scheduling the scan of workstations, servers for the actual year, liaising with the Supervisors on the dates of scan on workstations in scope, follow up with the users for completeness (~ 120 users)
+- Collect and follow up of audit requests, organize audits & improve the audit process.
+- Manage the changes of the automation scripts when IT environments are changing (Windows server, network setup, Windows 10 andsecurity policies), in cooperation with IT.
+- Once PCI officers are ready with the analysis, provide the Supervisors the results of analysis of workstations and analysis the server result for CC number
+- Check with the users the results of wipe process, collect the wipe logs from workstations and does the wipe process on servers.
+- Monthly checks the PCIDSS room audit, destroy documents if needed, handle the secure drives, any other equipment present in the PCI room
+- Collect Visitor Logs from Reception, room audit documents, send to PCI officers monthly,
+- Providing documents, video system results, HC logs of user’s movements inside company, keeping track of PCI procedures inside company
+- Sending reminders to staff in case of missing reports
+- Perform PCI cabinet check
+
+Business Continuity Plan
+- Understand and document the Operational Processes of FSSC, creates flow diagrams including internal –external process dependencies, keep the documentation updated
+- Coordinates the yearly test of the IT environment with local and AF IT
+- Updates the BCP plan yearly in cooperation with Operational Managers, Supervisors and Support Teams includes the new Operational Processes.
+
+Qualifications
+Our requirements:
+- Bachelor’s degree with a focus on Economic Informatics
+- 0-1 year of relevant experience as IT or Business Analyst
+- Strong knowledge of Windows and Microsoft Applications
+- Fluent English in writing and verbally
+- Motivation to learn with Agile/SCRUM process
+- PCI DSS security knowledge is an advantage
+
+Your Skills
+- Critical thinking and problem-solving mind-set
+- Ability to work independently, proactively and precisely
+- Highly motivated team player with strong communication and interpersonal skills
+- Fast learning and adoptability skills
+- Customer and Quality focus
+
+Additional Information
+- Our Offer For Your Hard Work
+- Home office opportunity
+- Cafeteria & bonus
+- Discount airfare
+- Dynamic working hours

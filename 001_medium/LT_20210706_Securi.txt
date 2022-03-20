@@ -1,0 +1,34 @@
+Security Architect 
+
+
+Responsibilities
+Develop and maintain Security Domains to fulfil strategy and business goals
+Define Target Architecture, including principles, capabilities, guidelines and roadmaps
+Provide technical expertise on security technologies and products implementation
+Establish effective relationship with Business areas and other stakeholders
+Drive information protection strategy and initiatives through assigned Business areas
+Support Business/IT projects to ensure security is integrated throughout the delivery lifecycle
+Provide guidance on Security Architecture, requirements, practices and solutions
+Determine functional and non-functional security requirements; Perform risk assessment and develop security controls
+
+
+Skills And Experience
+University degree
+At least 3 years of experience in information security
+Hands-on experience with security technologies and products
+Experience in design and implementation of complex solutions
+Experience in related areas (e.g. Cloud solutions, Software development, etc.)
+Strong understanding of information security frameworks and industry standards
+Certifications in Information Security, IT Audit or Risk Management
+Fluency in English
+
+
+
+Seniority level
+Associate
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Information Technology and Services, Banking, and Financial Services

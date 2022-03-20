@@ -1,0 +1,81 @@
+Information System Security Engineer
+
+Company: Raiffeisen banka a.d. Beograd 
+Location: Belgrade, Serbia
+Job Details
+Seniority Level: Associate
+Industry: Banking
+Employment Type: Full-time
+Job Functions: Information Technology
+
+About the job
+Job description:
+The IT security system engineer is in charge of the technical aspects of the work, before all Microsoft based systems (domains, operating systems, applications, integration, local and cloud services, etc.). The primary focus is on solving tasks in the field of information security, as well as maintenance, automation (scripting), system optimization and improvement. Also the application of modern ones system protection systems and information at all levels, in constant coordination with IT, IS and relevant business services, as well as external partners.
+
+Basic knowledge and many years of practical experience:
+PowerShell, SCCM / MEM, AD, GPM, IIS, Cloud Services
+Security hardening, vulnerability management
+Maintaining a Windows server in an Enterprise environment
+Process and service improvement and automation
+Addressing the challenges of information security
+
+Desirable skills and experience in working with the following technologies or them similar to:
+VMware and Citrix
+PKI, MFA, PAM, SIEM, IAM, Intune
+Office 365, Azure and AWS integrations
+Windows services: Print, Share, DFS, WSUS, DNS, DHCP, Cluster, SQL, Defender
+
+We can offer you:
+Work in one of the largest and most challenging IT systems in Serbia
+Mentoring and training
+Required qualifications:
+Graduated from the faculty / college of technical profile
+MCSA, MCSE, CISSP, CISM, CEH, certificate
+Minimum 3 years of work experience in the position of system administrator
+Excellent analytical and interpersonal skills
+Good knowledge of written and spoken English
+
+If you are interested, send your CV to e-mail:
+hr.department@raiffeisenbank.rs
+* Please note that we will only contact shortlisted candidates
+You can see a more detailed ad via the attached link:
+https://www.raiffeisenbank.rs/career/sistem-inzenjer-za-it-bezbednost/
+
+
+
+Original job posting in Serbian:
+Opis posla:
+Sistem inženjer za IT bezbednost je zadužen za tehničke aspekte rada, pre
+svega Microsoft baziranih sistema (domena, operativnih sistema, aplikacija,
+integracija, lokalnih i cloud servisa i dr.). Primarni fokus je na rešavanju
+zadataka iz oblasti informacione bezbednosti, kao i održavanju, automatizaciji
+(scripting), optimizaciji i unapređenju sistema. Takođe i primeni savremenih
+sistema zaštite sistema i informacija na svim nivoima, u stalnoj koordinaciji sa
+IT, IS i relevantnim biznis sluzbama, kao i spoljnim partnerima.
+Temeljno znanje i višegodišnje praktično iskustvo:
+PowerShell, SCCM/MEM, AD, GPM, IIS, Cloud Services
+Security hardening, vulnerability management
+Održavanje Windows servera u Enterprise okruženju
+Unapređenje i automatizacija procesa i servisa
+Rešavanje izazova informatičke bezbednosti
+Poželjne veštine i iskustvo u radu sa sledećim tehnologijama ili njima
+sličnim:
+VMware i Citrix
+PKI, MFA, PAM, SIEM, IAM, Intune
+Office 365, Azure i AWS integracijama
+Windows servisi: Print, Share, DFS, WSUS, DNS, DHCP, Cluster, SQL,
+Defender
+Mi možemo da vam ponudimo:
+Rad u jednom od najvećih i najizazovnijih IT sistema u Srbiji
+Mentorstvo i obuke
+Potrebne kvalifikacije:
+Završen fakultet/viša škola tehničkog profila
+MCSA, MCSE, CISSP, CISM, CEH, sertifikat
+Minimum 3 godine radnog iskustva na poziciji sistem administratora
+Odlične analitičke i interpersonalne sposobnosti
+Dobro poznavanje pisanog i govornog engleskog jezika
+Ukoliko ste zainteresovani, pošaljite svoju biografiju na e-mail:
+hr.department@raiffeisenbank.rs
+*Napominjemo da ćemo kontaktirati samo kandidate koji uđu u uži izbor
+Detaljniji oglas možete videti preko linka u prilogu:
+https://www.raiffeisenbank.rs/career/sistem-inzenjer-za-it-bezbednost/

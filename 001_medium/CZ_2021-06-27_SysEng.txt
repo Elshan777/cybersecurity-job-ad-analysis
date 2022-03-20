@@ -1,0 +1,37 @@
+﻿
+https://www.linkedin.com/jobs/view/2577517776/?refId=fec8eb10-3988-4ed1-ae54-0fb2ee70cd31
+
+System Engineer at SolarWinds
+
+
+  
+*_Responsibilities
+_*
+
+  * Management of the performance and stability for a complex *VMWare,
+    Exchange, AD, IIS and SQL environment*.
+  * Manage and continuously secure *Active Directory Services*.
+  * Monitoring and maintaining backup and security requirements.
+  * Work in a team environment to provide rotating 24X7 support.
+  * Create system and solution documentation.
+  * Researches, evaluates, and recommends new technologies to ensure the
+    optimal stakeholder satisfaction, stability, flexibility, and security.
+  * Communication with stakeholders to understand business needs and
+    manage operational issues.
+
+*_Qualifications
+_*
+
+  * Experience with *Office 365* Managemen
+  * Experience with Office 365 services including but not limited to
+    SharePoint Online, OneDrive, Office Online, Teams, and Office 365
+    Groups.
+  * *Microsoft Windows Server* and Active Directory skills
+  * MS Server support experience in a production environment
+  * *PowerShell* scripting knowledge
+  * Experience with *Virtualization* (VMware or MS Hyper - V)
+  * Experience with *Azure* including management of IAM roles and
+    automation of infrastructure deployment across multiple Azure accounts
+
+*What awaits you, besides top technology and great coworkers?
+

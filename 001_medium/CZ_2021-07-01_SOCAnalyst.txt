@@ -1,0 +1,65 @@
+﻿https://www.linkedin.com/jobs/view/2435731422/?refId=5f8104e5-f6a0-4cd8-9746-d453af587e24
+
+SOC Analyst at Fortinet
+
+
+      About the job
+
+*_Job Description
+
+_**Job Responsibilities:
+*
+
+  * Monitor SOC alerts to detect potential threats as part of a 24\7 team
+  * Use threat intelligence feeds, triage alerts and filter out
+    false-positives
+  * Run custom reports and log searches to support investigations and
+    customer’s requirements
+  * Work with customers and Forensic analysis team to contain and
+    eradicate incidents if need be
+  * Follow Incident Response playbooks, processes and procedures and
+    help to improve them
+  * Work with customers to tune preventive security controls e.g.
+    Fortigate firewalls
+
+
+*_Required Technical Skills & Experiences
+_*
+
+  * Strong understanding of layered security at data, OS and network levels
+  * Strong understanding of Cyber Kill chain, threat vectors and threat
+    intelligence
+  * Strong understanding of network concepts, common protocols and services
+  * Strong understanding of Incident response life cycle and IT service
+    management
+  * 3+ years of IT experience, ideally include security operations and
+    Incident response
+  * Familiar with NIST Incident Handling guide and Cybersecurity Framework
+  * Hands-on experience with visualization and reporting technologies.
+    SQL experience is a bonus.
+  * Hands-on experience with Network Security technologies such as
+    Firewalls, SIEM, Sandbox. Experience with Fortinet products is a bonus.
+  * Hands-on experience with security log analysis such as AV, IPS,
+    Anti-Spam logs
+
+Hands-on experience with Linux and Windows system administration.
+Forensic analysis is a bonus.
+
+*_Required Soft Skills
+_*
+
+  * Team player, solution-focused, conflict management skills
+  * Multi-tasking and stress management skills
+  * Self-directed, takes initiatives, leadership skills is a bonus
+  * Open to new challenges and learning opportunities
+  * Understands the importance of discipline, consistency and communication
+  * Good verbal and written communication skills
+
+
+*_Educational & Certification Requirements
+_*
+
+  * Bachelor's degree in Computer Science, Information Security or
+    related field
+  * Credible certifications such as CISSP is a bonus
+

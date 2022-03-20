@@ -1,0 +1,43 @@
+Information Security Engineer
+
+Company: Play'n GO 
+Location: Budapest, Hungary
+Industry: Gambling & Casinos, Information Technology & Services
+Employment Type: Full-time
+Job Functions: Legal, Quality Assurance, Administrative
+
+About the job
+We are looking for a Information Security Engineer to join our growing team.
+
+Main Responsibilities
+- Coordinate with external Auditors on security related audits
+- Assist with obtaining and maintaining the security certifications to comply with various jurisdiction requirements
+- Carry out Cyber security risk assessments on systems and projects
+- Perform security assessments and compliance checks, including vulnerability scans
+- Write information security policies and procedures
+- Analyse and investigate information security logs
+- Deliver information security awareness and guidance to employees to increase security awareness and improve security performance
+- Carries out Security Incident Management and Response, and maintain the relevant playbooks
+- Stay abreast of the Cyber Security trends and developments
+
+Requirements
+- Experienced directly in Information Security having been in a similar role for the last three years, including handling information security incident handling
+- A contributor to Knowledge transfer and information sharing working with minimal supervision
+- Very familiar with Penetration Tests and Vulnerability assessments having carried them out yourself
+- Well versed in the working of Endpoint protection solutions, Intrusion Detection and Intrusion Prevention Systems, Firewalls, Vulnerability Assessment and management tools, Security Information Event Management solutions
+- Experienced with security in Cloud environments such as Microsoft Azure and Amazon Web Services
+- Constantly striving to proactively improve cyber security posture
+- All about automating processes so you can spend less time doing repeatable tasks
+- Comfortable working under pressure and to tight deadlines
+- An analytical person with good problem-solving skills
+- Enjoy being a team player and always ready to help your colleagues
+- Good knowledge of ISO 27001 standard or equivalent
+
+Preferences
+- An Information Security related degree and/or equivalent certifications, or at least have 5 years' experience in an Information Security position
+- Experience with writing scripts in BASH, PERL, Python and PowerShell
+- OCSP, CISSP, or CEH certifications
+- Good knowledge of OWASP and CIS
+- Good knowledge of ISO 31000 and ISO 22301
+
+

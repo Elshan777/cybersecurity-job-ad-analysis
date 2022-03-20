@@ -1,0 +1,44 @@
+Security Analyst
+https://www.linkedin.com/jobs/view/2465568717/
+
+Company: EPAM Systems
+Location: Budapest, Hungary 
+Seniority Level: Mid-Senior
+Industry: Information Technology & Services
+Employment Type: Full-time
+Job Functions: 
+Remote: 
+
+Description
+For our Budapest, Hungary office are looking for a Security Analyst.
+
+Responsibilities
+- Create SIEM and SOAR detection and remediation scenarios, implement them as detection and response rules. Create, test, and update playbooks
+- Configure security tools integration with SIEM platform
+- Conduct cloud and infrastructure security posture assessment
+- Monitor on-prem and cloud infrastructure for attacks, intrusions, and unusual, unauthorized, or illegal activity
+- Monitor identity and access management, including monitoring for abuse of permissions by authorized system users
+- Perform threat hunting and support threat intelligence processes
+- Use advanced analytic tools to determine emerging threat patterns and vulnerabilities
+
+Requirements
+- Experience with Microsoft Sentinel SIEM solutions
+- At least 1 year of experience with Microsoft Azure
+- Good to have experience with one of the following SIEM solutions (Splunk, QRadar, ArcSight, LogRhythm, ELK, Wazuh, Apache Metron, OSSIM, etc.)
+- Experience with 1 or more SIRP/SOAR tools (TheHive, Cortex, Phantom, Demisto, Resilient, etc.)
+- Technical knowledge of Internet security, networking protocols, and related technologies, including IDS/IPS, firewalls, content filtering, Network Behavior Analysis tool, Anti-malware, and packet inspection
+- Basic understanding of Windows, Linux, DB, and network device monitoring and logging technics
+- Basic understanding of host and network security hardening, networking protocols, common intrusion techniques, and common risk management concepts
+- Basic knowledge of malware detection, intrusion detection, and prevention systems
+- Experience with network security will be a plus
+- Experience with Firewalls (F5, Juniper, Check Point, Palo Alto, Cisco) will be a plus
+
+We offer
+- Dynamic, entrepreneurial, high speed, high growth corporate environment
+- Diverse multicultural, multi-functional, and multilingual work environment
+- Opportunities for personal and career growth in a progressive industry
+- Global scope, international projects
+- Widespread training and development opportunities
+- Unlimited access to LinkedIn learning solutions
+- Competitive salary and various benefits
+- Sport and social teams support, recreation area, advanced CSR programs

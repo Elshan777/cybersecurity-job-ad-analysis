@@ -1,0 +1,58 @@
+Information Security Lead 
+Responsibilities
+
+of the role
+You will work across a multidisciplinary group of software developers and engineers, helping them to implement the necessary tools and processes to maintain good security best practices.
+You will perform vulnerability assessments and highlight the outcomes of those activities to teams and stakeholders
+You will work closely with one of our biggest clients - a global organisation with a significant footprint within the Zenitech group, operating across all Zenitech locations
+You will be responsible for producing monthly reports of activity, risk assessments, vulnerabilities, incidents etc.
+As somebody who is passionate about information security, you will help to inform and train your colleagues, making infosec relevant and encouraging security awareness around the company.
+You will at times work with Zentiech’s CTO and the UK-based Digital Consulting Team. Sometimes participating in ad-hoc consulting activities. Oftentimes you will be figuring out new ways to make the world a more secure place for our employees, our clients and their customers.
+Your technical activities will be blended with helping to achieve maturity through our ISO and Cyber Essentials Plus accreditations, which means you will use your knowledge of those standards to help our teams to maintain the expected levels of compliance.
+You will become part of Zenitech’s Information Security Management Team, participating in risk assessments, solutions design and technical implementations together with other members of the Technology team.
+Skills Required
+Proven background within Information Security
+Demonstrable knowledge of common vectors, and awareness of methods to stay up to date with vulnerability disclosures
+Knowledge of at least three of the following: Bash, Python, Perl, Powershell, Java (Groovy), Javascript, C#, SQL, Golang, Kotlin, Rust, Go. We don’t expect you to be the world’s best developer, but you should be able to read source code, set up a dev environment (with some help) and use the basic developer toolchain.
+Knowledge of common information security management frameworks, such as ISO and Cyber Essentials/Plus
+Project management skills: You will need to manage your priorities and be able to work independently.
+Strong communication skills with an ability to communicate effectively to stakeholders within Zenitech and with senior members of Zenitech’s global customer organisations
+Attention to detail to ensure accurate assessment and management of risk. Understanding the trade-off between risks and implications of different solutions.
+Software Development Lifecycle inc. CI/CD, You will spend a lot of time with software developers, so will need to partner with development teams to assist with the hands-on implementation of security processes.
+Knowledge of regulatory practices including Data Protection, GDPR
+Understanding of modern Cloud platforms i.e. Azure, AWS or GCP. Can you ask the right questions of the Devops and Operations people to assess whether more work needs to be done in the way infrastructure is configured?
+Knowledge of both Unix/Linux and Windows operating systems.
+Ability to work with Network engineers on configuration of VLANs/Subnets, IPSEC tunnels, VPN, firewalls etc
+Business Continuity and/or Disaster Recovery planning
+We expect the successful candidate to have good experience or knowledge of most of the areas listed here. We also understand that not everybody knows everything, so it’s best to just share with us what you know and your areas for improvement, so that we can work effectively together and be aware of any gaps!
+
+Useful Skills/experiences
+Tenable.io
+Synopsys Blackduck
+SonarQube
+SonarLint
+Checkmarx
+Fortify
+OWASP Dependency Check
+Veracode (Sourceclear)
+Mitre top 25 (or minimum OWASP top 10)
+CI/CD and headless integration of security tools
+Threat modelling strategies, STRIDE, PASTA, VAST
+If you have some familiarity with the following, or similar tools/systems, these will be relevant to the work that we do, so come and talk to us about that!
+
+Opportunities
+This is a highly visible role and you will have opportunities to work with very significant global organisations within the Zenitech network.
+This should be fun - you can work with our internal marketing people to run awareness campaigns around information security.
+You will have opportunities to deliver tech talks both internally and externally within our client teams.
+You will attend key ISMS board meetings and represent Zenitech from an ISO27001 compliance perspective.
+Zenitech is a rapidly growing organisation. We will be circa 300 full time staff by the end of this year and potentially 600+ in 3 years time. This role will grow in significance, seniority and impact as the company grows. Can you grow with us?
+We offer you salary from 4298 to ~ 6281 € Gross/Month and willing to discuss it based on your competencies. We provide some additional benefits as well, including health insurance, 25 Eur Wolt coupon every month, internal and external learning and team building opportunities.
+
+Seniority level
+Associate
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Information Technology and Services, Computer Software, and Internet

@@ -1,0 +1,63 @@
+Sr. Endpoint CyberSecurity Engineer 
+
+
+Role/Responsibilities
+
+The Cybersecurity team is globally responsible for helping the organization balance risk by
+
+aligning policies and procedures with Moody’s business and regulatory requirements. The
+
+team is responsible for the development, enforcement, and monitoring of security controls,
+
+policies and procedures, disaster recovery programs, GRC (Governance, Risk and Compliance)
+
+reporting and the delivery of security services including the company’s Cyber Security
+
+program.
+
+Functional Responsibilities
+Assist and become subject matter expert on a range of endpoint security products in the Cybersecurity portfolio – including EDR and encryption
+Research and recommend new features for existing endpoint security tools
+Enhance automation in areas such as compliance, installation, and reporting
+Assist with creating and updating documentation including standard operating procedures and guides for different audiences – internal team, InfoRisk, and IT teams
+Develop, collect, and mature security metrics for IT Risk programs
+Security tool deployment in Cloud and On-Premise environments
+Provide escalation support for endpoint security tools
+Work with IT teams to develop or enhance processes, provide cross-training, assistance and build relationships
+Assist with compliance, ensuring endpoint tools are properly installed, reporting and fully functional across the organization
+Plan and assist with implementation of security tools for new acquisitions
+Plan and rollout upgrades, perform true-ups and remediation
+Preferable work hours are 11 AM to 8 PM EEST.
+
+Some scheduled weekend work and on-call rotation expected.
+
+Qualifications
+Minimum 7-12 years of experience in IT industry, preferably in a financial service or consulting organization
+3-7 years IT engineering experience with security tools and technologies
+Business English reading comprehension, written and oral communication skills
+Strong analytical skills to troubleshoot effectively with minimal assistance
+BS or BA degree, preferably in engineering, science, or technology; or equivalent work experience
+Technical Competencies
+Strong background implementing and supporting endpoint security technologies such as EDR, AV, local firewalls, encryption, VPN and proxy
+Experience with Microsoft 365 offerings - Endpoint Manager, Intune and Device Management
+Thinks with a security mindset. The successful candidate has a strong IT background with in-depth knowledge of several key security practice area: access control; application security; network security; security architecture; security strategy
+Ability to quickly assimilate new technologies, tools, internal/external systems and design frameworks.
+Working experience with cloud technologies such as AWS and Azure
+Automation or scripting experience
+Broad technical background including understanding of networking, firewalls, servers, workstations, and Active Directory
+Strong working knowledge of Windows Server and Workstation
+Linux experience a big plus
+macOS experience a plus
+AWS \\ Azure experience a plus
+LOB/Cost Center
+
+
+
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Financial Services

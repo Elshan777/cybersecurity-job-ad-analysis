@@ -1,0 +1,36 @@
+Leader of Team for SOC 
+
+
+Area:
+Security, headed by Chief Security Officer (CSO), is a part of an organization that delivers high-quality security and risk solutions to Danske Bank and its customers. Security works with complex technical issues and contributes to developing Danske Bank’s global competitive edge on innovative risk mitigating solutions.
+
+Leading their SOC team means beinng responsible for 24-hour monitoring, detection, response, and remediation of cyber threats and incidents in a dynamic, fast-paced & rewarding environment. The ideal candidate will have hands-on experience managing & motivating a team in a Security Operations Center (SOC) as well as strong project management background as well as superb communication skills.
+Mission:
+The Security Operations Centre (SOC) Lead will plan, direct and control the SOC functions and operations. Ensure the monitoring and analysis of incidents to protect People, Technology and Process addressing all security incidents and ensuring timely escalation.
+
+The Security Operations Center Lead develops, supports and provides direction to both the senior and non-senior analysts as well as a liaison to SIRT, other Cyber Operations, Cyber Build and Design teams in Security organization.
+Skills:
+4+ years of experience in the Cyber Security space
+Experience in working in a Security Operations Center (SOC) or Security Incident Response Team (SIRT) is required
+Mature understanding of industry accepted standards for threat monitoring and best practices related to SOC operations
+Knowledge of global and financial sector cyber security issues
+Ability to work with a large degree of autonomy and minimal supervision
+Demonstrates decision making, problem-solving & analytical skills with attention given to detail and accuracy
+Motivated to continually provide input to enhance the Security Program
+Follow-up/Follow-through & Deliver quality results within defined SLAs
+Experience generating metrics and reporting to stakeholders
+Able to prioritize events and provide guidance in alert management priority
+Proven ability to work in a fast paced deadline driven environment while maintaining a high level of professionalism
+Strong project management, presentation and communication
+
+
+
+
+Seniority level
+Associate
+Employment type
+Full-time
+Job function
+Other
+Industries
+Information Technology and Services, Computer Software, and Financial Services

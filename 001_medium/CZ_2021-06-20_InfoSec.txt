@@ -1,0 +1,58 @@
+﻿
+ https://www.linkedin.com/jobs/view/2611166378/?refId=2caa4b36-7209-4d9e-9639-7ac499153c9b
+
+
+INFORMATION SECURITY ANALYST I at TE Connectivity
+
+
+     
+
+*_Key Responsibilities
+_*
+
+  * Cyber Alert Monitoring / Cyber Threat Hunting - Identifying and
+    reacting to threats throughout the organization utilizing a variety
+    of security tools
+  * Incident Response - Responsible for incident investigation including
+    host, network and log forensics
+  * Security Automation and Orchestration (SAO) - Responsible for
+    managing and developing the SAO platform
+  * Security Controls Management - Manage the entire suite of Enterprise
+    Security Controls including (but not limited to): EDR, UEBA, SIEM,
+    Intrusion Detection/Prevention, 2-factor solutions, vulnerability
+    scanning, sandboxes, encryption technologies,
+    authentication/authorization solutions, Data Loss Prevention, flow
+    monitoring, etc.
+  * Red/Blue Fusion Team - Participate in regular penetration tests of
+    our environment from both internal and external locations
+
+*_Requierements
+_*
+
+  * Undergraduate degree in an Information Technology/Systems discipline
+    OR other equivalent work experience/certifications.
+  * Experience implementing and/or managing security solutions
+  * Demonstrated experience in understanding networking technologies and
+    protocols
+  * Systems administration experience with Windows or UNIX-based
+    operating systems
+  * Demonstrated experience with at least one programming/scripting language
+  * Capable of consulting with technical and business teams to
+    understand their security issues and communicate on a tactical and
+    strategic level.
+  * Must have technology passion and staying current with emerging
+    security trends.
+  * Excellent verbal & written communication and presentation skills.
+    Must be able to communicate effectively to executive and developer
+    levels.
+
+*_We Offer
+_*
+
+  * Challenging job in international company
+  * Personal and professional development and growth
+  * Motivating salary
+  * Employer contribution to meals
+  * 25 days of holiday
+  * and many other benefits
+
