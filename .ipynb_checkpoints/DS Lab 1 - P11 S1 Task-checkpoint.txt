@@ -1,0 +1,12 @@
+Short description: Various analyses showed that there are millions of job vacancies in cybersecurity. The job market is monitored in the USA by the Cyberseek project. There are similar initiatives in Europe as well, but not as detailed and well-defined. The goal of this project is to collect cybersecurity job ads from the LinkedIn platform and analyze the dataset with different text mining approaches.
+
+
+Instructions: Download the dataset from Teams. Get familiar with the dataset which contains data about LinkedIn job ads. Extract the job title information either from the filename or from the text. Group the job ads based on the job position. Analyze the similarity and dissimalirity between the job ads within groups and among the groups.
+
+Note: Do not share the dataset with anybody as it is a private dataset generated based on real-life LinkedIn job ads collected in 2021.
+
+Report length: 6-7 pages, LNCS format, minimum 10 scientific references, 1/2 page introduction, 1-page literature review + 5 pages of own contribution
+
+Initial references:
+https://www.ecs-org.eu/documents/publications/61967913d3f81.pdf
+https://www.concordia-h2020.eu/wp-content/uploads/2020/04/CONCORDIA-AssessmentOfCoursesT3.4-ForWebsite.pdf
