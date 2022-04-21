@@ -1,3 +1,4 @@
 001_medium/
 data/jobs.csv
 data/pairwise_similarity_matrix.csv
+notebooks/Example.ipynb
