@@ -1,7 +1,14 @@
 001_medium/
-data/
+data/*
 notebooks/Example.ipynb
 notebooks/Data Scrapper.ipynb
 notebooks/at_jobs.csv
 notebooks/czech_jobs.csv
 notebooks/latvia_jobs.csv
+Article Practices/
+literature/
+figures/
+001_medium/
+2021-07 001 LinkedIn job ads - medium.zip
+DS Lab 1 - P11 S1 Task.txt
+DS Lab 1 - Milestone 1 - Elshan Gadimov OV7MIK.zip
