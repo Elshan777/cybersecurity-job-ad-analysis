@@ -1,7 +1,12 @@
 001_medium/
 data/*
 notebooks/Example.ipynb
-notebooks/Data Scrapper.ipynb
+notebooks/Hierarchical Clustering.ipynb
+notebooks/Pairwise Similarities.ipynb
+notebooks/Text Loading.ipynb
+notebooks/Text Representation.ipynb
+notebooks/Milestone 1.ipynb
+notebooks/EDA.ipynb
 notebooks/at_jobs.csv
 notebooks/czech_jobs.csv
 notebooks/latvia_jobs.csv
